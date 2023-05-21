@@ -119,9 +119,9 @@ export function SideBar(props: { className?: string }) {
       }`}
     >
       <div className={styles["sidebar-header"]}>
-        <div className={styles["sidebar-title"]}>GPT国内随享 - AI三杯茶</div>
+        <div className={styles["sidebar-title"]}>AI三杯茶</div>
         <div className={styles["sidebar-sub-title"]}>
-          关注公众号“AI三杯茶”发送「yyds」获取访问密码！
+          国内免费无障碍访问GPT
         </div>
         <div className={styles["sidebar-logo"] + " no-dark"}>
           <ChatGptIcon />

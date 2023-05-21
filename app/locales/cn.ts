@@ -181,7 +181,7 @@ const cn = {
  **回答：** 当然可以，还可以在这里放一些问题解答，太棒啦！
  常见问题与使用说明点击查看 **[ChatGPT注册秘籍：图文详解，轻松入门，让您畅享AI聊天体验](https://mp.weixin.qq.com/s?__biz=Mzg4ODk3MjY2MQ==&mid=2247483678&idx=1&sn=dcc68f3bcf1c087908b0a2895b66c3f7&chksm=cff3b504f8843c1296cddb5ba476a49a5070124f7fcdcd6cfd1fadf143497dbba5385f93f763#rd)** 
 卡顿或无响应？可能是用户量太大， [点这里获得独立账号 KEY 使用](https://www.dff2.com/#shop)
-欢迎来聊聊  [图片](https://img.aibxw.com/wp-content/uploads/2023/04/20075031344.png) 或  [公众号](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzg4ODk3MjY2MQ==&scene=124#wechat_redirect)`,
+欢迎来聊聊  [图片](/1_897233711_191_79_3_685349874_421956c40426af05b74b6e8c5cffef63.png) 或  [公众号](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzg4ODk3MjY2MQ==&scene=124#wechat_redirect)`,
     Error: "出错了，稍后重试吧",
     Prompt: {
       History: (content: string) => "这是历史聊天总结作为前情提要：" + content,

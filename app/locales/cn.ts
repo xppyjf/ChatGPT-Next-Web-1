@@ -4,7 +4,7 @@ const cn = {
   WIP: "该功能仍在开发中……",
   Error: {
     Unauthorized:
-      "访问密码不正确或为空，请前往[设置](/#/settings)页输入正确的访问密码，或者填入你自己的 OpenAI API Key。[AI三杯茶](https://chat.luluangang.love/uploads/20230424115829159e45532.png)",
+      "访问密码不正确或为空，请前往[设置](/#/settings)页输入正确的访问密码，或者访问[AI三杯茶官网](https://www.aibxw.com)获取。",
   },
   ChatItem: {
     ChatItemCount: (count: number) => `${count} 条对话`,
@@ -96,7 +96,7 @@ const cn = {
     },
 
     Update: {
-      Version: (x: string) => `当前版本：${x}`,
+      Version: (x: string) => `当前版本：2.3`,
       IsLatest: "已是最新版本",
       CheckUpdate: "检查更新",
       IsChecking: "正在检查更新...",
@@ -157,8 +157,8 @@ const cn = {
     },
     AccessCode: {
       Title: "访问密码",
-      SubTitle: "管理员已开启加密访问",
-      Placeholder: "请输入访问密码",
+      SubTitle: "管理员已开启加密访问,访问[AI三杯茶官网]，或者添加助理微信:「youyisi88」获取。",
+      Placeholder: "管理员已开启加密访问,访问[AI三杯茶官网]，或者添加助理微信:「youyisi88」获取。",
     },
     Model: "模型 (model)",
     Temperature: {

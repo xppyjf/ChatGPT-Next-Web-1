@@ -176,7 +176,12 @@ const cn = {
   },
   Store: {
     DefaultTopic: "新的聊天",
-    BotHello: "有什么可以帮你的吗",
+    BotHello: `关注公众号：**[Ai三杯茶](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzg4ODk3MjY2MQ==&scene=124#wechat_redirect)** 回复 **密码** 免费获取密码，然后点击左下角[设置](/#/settings)按钮输入密码后解锁**免费使用**。
+ **提问：** 你可以在这里放一些常用问题吗？
+ **回答：** 当然可以，还可以在这里放一些问题解答，太棒啦！
+ 常见问题与使用说明点击查看 **[ChatGPT注册秘籍：图文详解，轻松入门，让您畅享AI聊天体验](https://mp.weixin.qq.com/s?__biz=Mzg4ODk3MjY2MQ==&mid=2247483678&idx=1&sn=dcc68f3bcf1c087908b0a2895b66c3f7&chksm=cff3b504f8843c1296cddb5ba476a49a5070124f7fcdcd6cfd1fadf143497dbba5385f93f763#rd)** 
+卡顿或无响应？可能是用户量太大， [点这里获得独立账号 KEY 使用](https://www.dff2.com/#shop)
+欢迎来聊聊  [扫一扫微信](https://img.aibxw.com/wp-content/uploads/2023/04/20075031344.png) 或  [公众号](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzg4ODk3MjY2MQ==&scene=124#wechat_redirect)`,
     Error: "出错了，稍后重试吧",
     Prompt: {
       History: (content: string) => "这是历史聊天总结作为前情提要：" + content,

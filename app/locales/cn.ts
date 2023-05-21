@@ -4,7 +4,7 @@ const cn = {
   WIP: "该功能仍在开发中……",
   Error: {
     Unauthorized:
-      "访问密码不正确或为空，请前往[设置](/#/settings)页输入正确的访问密码，或者访问[AI三杯茶官网](https://www.aibxw.com)获取。",
+      "访问密码不正确或为空，关注公众号：**[Ai三杯茶](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzg4ODk3MjY2MQ==&scene=124#wechat_redirect)** 回复 **密码** 免费获取密码，然后点击左下角[设置](/#/settings)按钮输入密码后解锁**免费使用**。",
   },
   ChatItem: {
     ChatItemCount: (count: number) => `${count} 条对话`,
@@ -157,8 +157,8 @@ const cn = {
     },
     AccessCode: {
       Title: "访问密码",
-      SubTitle: "管理员已开启加密访问,访问[AI三杯茶官网]，或者添加助理微信:「youyisi88」获取。",
-      Placeholder: "管理员已开启加密访问,访问[AI三杯茶官网]，或者添加助理微信:「youyisi88」获取。",
+      SubTitle: "管理员已开启加密访问,关注公众号：「Ai三杯茶」 回复 「密码」 免费获取密码，然后点击左下角「设置」按钮输入密码后解锁免费使用。",
+      Placeholder: "管理员已开启加密访问,关注公众号：「Ai三杯茶」 回复 「密码」 免费获取密码，然后点击左下角「设置」按钮输入密码后解锁免费使用。",
     },
     Model: "模型 (model)",
     Temperature: {

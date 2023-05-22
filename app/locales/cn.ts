@@ -180,6 +180,7 @@ const cn = {
 **提问：** 如何注册ChatGPT官方账户？
 **回答：** **[ChatGPT注册秘籍：图文详解，轻松入门，让您畅享AI聊天体验](https://mp.weixin.qq.com/s?__biz=Mzg4ODk3MjY2MQ==&mid=2247483678&idx=1&sn=dcc68f3bcf1c087908b0a2895b66c3f7&chksm=cff3b504f8843c1296cddb5ba476a49a5070124f7fcdcd6cfd1fadf143497dbba5385f93f763#rd)** 
 卡顿或无响应？可能是用户量太大， [点这里获得独立账号 KEY 使用](https://www.dff2.com/#shop)
+
 **欢迎来聊聊**
 ![微信扫一扫](/wechat.png)`,
     Error: "出错了，稍后重试吧",

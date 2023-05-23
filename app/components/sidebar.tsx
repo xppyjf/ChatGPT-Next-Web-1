@@ -201,7 +201,6 @@ export function SideBar(props: { className?: string }) {
         onMouseDown={(e) => onDragMouseDown(e as any)}
       ></div>
     </div>
-      <script charset="UTF-8" id="LA_COLLECT" src="//sdk.51.la/js-sdk-pro.min.js"></script>
-<script>LA.init({id:"K2B4sDd0jzmlPMX8",ck:"K2B4sDd0jzmlPMX8"})</script>
+
   );
 }
